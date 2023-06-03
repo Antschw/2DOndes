@@ -1,2 +1,2 @@
 # 2DOndes
-2D ondes projet
+Projet Ondes 2D LU3ME104 Sorbonne Université 2021-2022
